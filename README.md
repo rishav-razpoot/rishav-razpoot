@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Open Source Projects.  
 - 💬 Ask me about React, React Native, Redux, and Backend APIs.  
 
----
 
 ## 📫 Connect with me  
 
@@ -13,7 +12,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836)](mailto:rishavkumaarr@gmail.com)
 
 
----
 
 ## 🚀 Languages and Tools  
 
@@ -33,30 +31,4 @@
   <img src="https://img.icons8.com/color/64/000000/visual-studio-code-2019.png" alt="VS Code"/>
 </p>
 
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishav-razpoot&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishav-razpoot&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-razpoot&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-
----
-
-## 👀 Visitor Count  
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rishav-razpoot&color=blue)
-
----
-
-⭐️ From [Rishav](https://github.com/rishav-razpoot)
 
