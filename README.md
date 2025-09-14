@@ -1,7 +1,7 @@
 # Hi, I'm Rishav <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 - 😄 I'm a Software Developer.  
-- 🌱 I’m currently working on Full Stack Development and Mobile Applications.  
+- 🌱 I’m currently working on a Mobile Applications.  
 - 👯 I’m looking to collaborate on Open Source Projects.  
 - 💬 Ask me about React, React Native, Redux, and Backend APIs.  
 
